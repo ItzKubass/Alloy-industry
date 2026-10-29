@@ -1,0 +1,8 @@
+displayName: "Alloy Industry"
+name: "alloy-industry"
+author: "Kubass"
+main: "cz.kubass.alloyindustry.AlloyIndustryMod"
+description: "Přidává nové průmyslové bloky do Mindustry – slitinu, pásy a pece."
+version: "1.0.0"
+minGameVersion: 160
+java: true
